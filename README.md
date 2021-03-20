@@ -1,3 +1,11 @@
 # ipl_first_innings_Score_prediction
 
-![image](https://user-images.githubusercontent.com/61958476/111876011-b5b30080-89c2-11eb-8ca5-916314bc8b50.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/61958476/111876246-e0518900-89c3-11eb-8b29-498d41772dd8.png)
+
+
+
+![Uploading image.png…]()
