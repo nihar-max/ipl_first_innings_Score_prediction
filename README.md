@@ -3,7 +3,5 @@
 
 
 
-• A glimpse of the web app:
-
- ![GIF](readme_resources/ipl-first-innings-score-web-app.gif)
+Deployed at: https://ipl-score1.herokuapp.com/
  
