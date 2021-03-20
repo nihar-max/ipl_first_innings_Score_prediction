@@ -3,5 +3,5 @@
 
 
 
-Deployed at: https://ipl-score1.herokuapp.com/
+Deployed at: https://ipl-s3.herokuapp.com/
  
