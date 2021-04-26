@@ -24,4 +24,6 @@ As we always watch T-20 or ODI after playing few overs there’s a projected sco
 
 ### Conclusion: Here Linear regression as well as Ridge and Lasso regression works fine with MSE of 250 +
 
-### Final Output will look something like this
+### Final Output will look something like this:
+
+![GIF](cricket.gif)
