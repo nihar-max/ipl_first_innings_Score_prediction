@@ -3,7 +3,7 @@
 ### Deployed at: https://ipl-s3.herokuapp.com/
 
 ### Problem Statement:
-As we always watch T-20 or ODI after playing few overs there’s a projected score given for First Innings based on their current performance to predict that after the end of the first innings the final score will something around this runs with this wicket. So here our task is to determine the live first innings Score / projected score based on input features such as (overs bowled till now, runs, wickets, runs in previous 5 overs, wickets in previous 5 overs) and also based on their previous Stats / records/ performance throughout the IPL (i.e. 2008 - 2017) as in given dataset. It’s a Regression Problem 
+As we always watch T-20 or ODI, where the batsman after playing few overs there’s a projected score given for First Innings based on their current performance to predict that after the end of the first innings the final score will something around this runs with this wicket. So here our task is to determine the live first innings Score / projected score based on input features such as (overs bowled till now, runs, wickets, runs in previous 5 overs, wickets in previous 5 overs) and also based on their previous Stats / records/ performance throughout the IPL (i.e. 2008 - 2017) as in given dataset. It’s a Regression Problem 
  
 ### Workflow:
 ![image](https://user-images.githubusercontent.com/61958476/116069677-4a3b0d80-a6a9-11eb-8e08-34d63a6a0907.png)
